@@ -11,6 +11,11 @@ TrackMe is a company that provides three services:-
 
 * Track4Run: It is a service that allows organizer to organize a race, athletes to participate in the race and spectators to view the race live in a Map.
 
+### TO DO
+1. Requirement Analysis and Specification Document
+2. Design Document
+3. Alloy model
+
 ### Team Members
 1. Mohini Gupta
 2. Saloni Kyal 
