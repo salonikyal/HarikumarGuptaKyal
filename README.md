@@ -1,4 +1,4 @@
-## Software Engineering Project 2
+## Software Engineering 2 Project
 
 ### Project Title: TrackMe 
 
